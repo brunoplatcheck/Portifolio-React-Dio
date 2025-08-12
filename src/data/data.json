@@ -1,0 +1,307 @@
+{
+  "profile": {
+    "name": "Bruno Platcheck"
+  },
+  "socialLinks": [
+    {
+      "name": "GitHub",
+      "url": "https://github.com/brunoplatcheck",
+      "icon": "github",
+      "color": "#333333"
+    },
+    {
+      "name": "Sketchfab",
+      "url": "https://sketchfab.com/brunoplatcheck",
+      "icon": "cube-outline",
+      "color": "#1CA7EA"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/bruno-paz-platcheck-06663758/",
+      "icon": "linkedin",
+      "color": "#0A66C2"
+    },
+    {
+      "name": "Lattes",
+      "url": "https://buscatextual.cnpq.br/buscatextual/visualizacv.do;jsessionid=6642DEB55F1B58D1196DB012364D5018.buscatextual_0",
+      "icon": "file-document-outline",
+      "color": "#F0B42A"
+    },
+    {
+      "name": "Gmail",
+      "url": "mailto:brunoplatcheck1@gmail.com",
+      "icon": "gmail",
+      "color": "#EA4335"
+    }
+  ],
+  "skills": {
+    "linguagensDeProgramacao": [
+      {"name": "Python", "level": 90, "icon": "language-python"},
+      {"name": "JavaScript", "level": 85, "icon": "language-javascript"},
+      {"name": "Java", "level": 80, "icon": "language-java"},
+      {"name": "PHP", "level": 75, "icon": "language-php"},
+      {"name": "Dart", "level": 70, "icon": "language-dart"},
+      {"name": "CSS", "level": 90, "icon": "language-css3"},
+      {"name": "HTML", "level": 95, "icon": "language-html5"}
+    ],
+    "desenvolvimentoSoftware": [
+      {"name": "BackEnd", "level": 80, "icon": "server"},
+      {"name": "FrontEnd", "level": 75, "icon": "monitor"},
+      {"name": "Bancos de Dados (MySQL)", "level": 85, "icon": "database"},
+      {"name": "Lógica de Programação", "level": 90, "icon": "code-braces"},
+      {"name": "Flutter", "level": 70, "icon": "flutter"},
+      {"name": "Desenvolvimento de Jogos", "level": 85, "icon": "gamepad-variant"}
+    ],
+    "ferramentasEDesign": [
+      {"name": "Unity", "level": 85, "icon": "unity"},
+      {"name": "Blender", "level": 80, "icon": "blender"},
+      {"name": "3D Max", "level": 70, "icon": "cube-scan"},
+      {"name": "Photoshop", "level": 85, "icon": "adobe-photoshop"},
+      {"name": "GIMP", "level": 75, "icon": "image-edit-outline"},
+      {"name": "APP Inventor", "level": 65, "icon": "cellphone-android"},
+      {"name": "Office", "level": 90, "icon": "microsoft-office"}
+    ],
+    "qualidadeDeSoftware": [
+      {"name": "Testes Manuais", "level": 90, "icon": "test-tube"},
+      {"name": "Elaboração de Roteiros de Testes", "level": 88, "icon": "script-text-outline"},
+      {"name": "QA Tester", "level": 87, "icon": "bug-outline"}
+    ],
+    "dadosEIA": [
+      {"name": "Análise de Dados", "level": 85, "icon": "chart-bar"},
+      {"name": "Data Science", "level": 70, "icon": "brain"},
+      {"name": "Processamento de Linguagem Natural", "level": 65, "icon": "comment-text-multiple-outline"},
+      {"name": "Inteligência Artificial", "level": 60, "icon": "robot-outline"},
+      {"name": "Engenharia de Prompts", "level": 60, "icon": "comment-question-outline"},
+      {"name": "Visão Computacional", "level": 55, "icon": "eye-outline"},
+      {"name": "Aprendizado de Máquina", "level": 60, "icon": "machine-learning"}
+    ],
+    "cloudEInfraestrutura": [
+      {"name": "Azure", "level": 75, "icon": "microsoft-azure"},
+      {"name": "Azure DevOps Server", "level": 70, "icon": "dev-to"},
+      {"name": "Azure Cosmos DB", "level": 65, "icon": "database-search-outline"},
+      {"name": "Gerenciamento de API", "level": 60, "icon": "api"},
+      {"name": "Segurança em Nuvem", "level": 60, "icon": "cloud-lock-outline"},
+      {"name": "Networking Basics", "level": 70, "icon": "wan"}
+    ],
+    "habilidadesGerais": [
+      {"name": "Pensamento Analítico", "level": 95, "icon": "lightbulb-outline"},
+      {"name": "Visão Sistêmica", "level": 90, "icon": "sitemap"},
+      {"name": "Trabalho em Equipe", "level": 95, "icon": "account-group-outline"},
+      {"name": "Gerenciamento de Projetos", "level": 80, "icon": "clipboard-check-outline"},
+      {"name": "Gamificação", "level": 85, "icon": "trophy-outline"},
+      {"name": "Divulgação Científica", "level": 88, "icon": "science"},
+      {"name": "Pesquisa", "level": 85, "icon": "magnify"}
+    ]
+  },
+  "mainEducation": [
+    {
+      "degree": "Bacharelado",
+      "course": "Ciências Biológicas",
+      "institution": "PUCRS",
+      "period": "2010-03 a 2017-12",
+      "competencies": [
+        "Biologia Evolutiva",
+        "Trabalho de Campo",
+        "Pesquisa",
+        "Voluntariado",
+        "Manejo de Animais",
+        "Zoologia",
+        "Taxonomia",
+        "Lógica de Programação",
+        "Microbiologia",
+        "Microscopia Ótica",
+        "Inglês",
+        "Educação Ambiental",
+        "Ecologia",
+        "Biologia",
+        "Botânica"
+      ]
+    },
+    {
+      "degree": "Especialização",
+      "course": "Game Design",
+      "institution": "PUCRS",
+      "period": "2018-03 a 2019-12",
+      "competencies": [
+        "Design de Jogos",
+        "Animação",
+        "Pesquisa",
+        "Modelagem 3D",
+        "GIMP",
+        "Lógica de Programação",
+        "3D Studio Max",
+        "Unity3D",
+        "Blender"
+      ]
+    },
+    {
+      "degree": "Curso Técnico",
+      "course": "Análise e Desenvolvimento de Sistemas",
+      "institution": "SENAC",
+      "period": "2023-02 a 04-2025",
+      "competencies": [
+        "Azure DevOps Server",
+        "APP Inventor",
+        "Adobe Photoshop",
+        "Programação",
+        "Lógica de Programação",
+        "Análise de Dados",
+        "Inglês",
+        "Gerenciamento de Backlog",
+        "Java",
+        "Flutter",
+        "PHP",
+        "Python",
+        "Dart"
+      ]
+    }
+  ],
+  "complementaryCourses": [
+    {
+      "category": "Cursos de Tecnologia e Programação",
+      "courses": [
+        {"title": "Python Essentials 1", "institution": "Cisco", "period": "2024-01"},
+        {"title": "Python Essentials 2", "institution": "Cisco", "period": "2024-04"},
+        {"title": "Introduction to Data Science", "institution": "Cisco", "period": "2024-04"},
+        {"title": "Data Analytics Essentials", "institution": "Cisco", "period": "2024-05"},
+        {"title": "Endpoint Security", "institution": "Cisco", "period": "2024-03"},
+        {"title": "Networking Basics", "institution": "Cisco", "period": "2024-04"},
+        {"title": "JavaScript Essentials 1", "institution": "Cisco", "period": "2024-05"},
+        {"title": "JavaScript Essentials 2", "institution": "Cisco", "period": "2024-06"},
+        {"title": "Imersão Python: Do Excel à Análise de Dados", "institution": "Alura", "period": "2024-04"},
+        {"title": "Imersão Front-End", "institution": "Alura", "period": "2023-12"},
+        {"title": "Imersão Back-End", "institution": "Alura", "period": "2023-12"},
+        {"title": "Imersão Inteligência Artificial", "institution": "Alura", "period": "2024-05"},
+        {"title": "HTML Essentials", "institution": "Cisco", "period": "2025-04"},
+        {"title": "CSS Essentials", "institution": "Cisco", "period": "2025-05"},
+        {"title": "Intro to Modern AI", "institution": "Cisco", "period": "2025-05"}
+      ]
+    },
+    {
+      "category": "Cursos de Desenvolvimento e Cloud",
+      "courses": [
+        {"title": "Desenvolvendo Soluções de Gerenciamento de API", "institution": "DIO", "period": "2025-01"},
+        {"title": "Explorando o Armazenamento de Blobs do Azure", "institution": "DIO", "period": "2025-01"},
+        {"title": "Implementando Soluções de Nuvem Seguras", "institution": "DIO", "period": "2025-01"},
+        {"title": "Introdução a AZ-204 com a Microsoft", "institution": "DIO", "period": "2024-12"},
+        {"title": "Algoritmos e Aprendizado de Máquina", "institution": "DIO", "period": "2025-02"},
+        {"title": "Explorando o Serviço de Aplicativo do Azure", "institution": "DIO", "period": "2024-12"},
+        {"title": "Introdução à Inteligência Artificial", "institution": "DIO", "period": "2025-01"},
+        {"title": "Introdução à Engenharia de Prompts", "institution": "DIO", "period": "2025-02"},
+        {"title": "Visão Computacional", "institution": "DIO", "period": "2025-02"},
+        {"title": "Inteligência Artificial (IA) e Colaboração com Git e GitHub", "institution": "DIO", "period": "2025-01"},
+        {"title": "Implementando Aplicativos de Contêiner no Azure", "institution": "DIO", "period": "2025-01"},
+        {"title": "Trabalhando com o Azure Cosmos DB", "institution": "DIO", "period": "2025-01"},
+        {"title": "Armazenamento e Banco de Dados no Azure", "institution": "DIO", "period": "2025-01"},
+        {"title": "Implementando Cache para Soluções", "institution": "DIO", "period": "2025-01"},
+        {"title": "Bootcamp Microsoft Certification Challenge #2 AZ-204", "institution": "DIO", "period": "2025-01"}
+      ]
+    },
+    {
+      "category": "Cursos de Análise de Dados e Governança",
+      "courses": [
+        {"title": "Análise de Dados como Suporte à Tomada de Decisão", "institution": "Enap", "period": "2024-11"},
+        {"title": "Análise de Dados em Linguagem R", "institution": "Enap", "period": "2024-11"},
+        {"title": "Trilha de Aprendizagem Análise de Dados - Fundamentos", "institution": "Enap", "period": "2024-12"},
+        {"title": "Governança de Dados", "institution": "Enap", "period": "2024-12"},
+        {"title": "Governança de Dados na Transformação Digital", "institution": "Enap", "period": "2024-12"},
+        {"title": "Análise de Dados: Uma Leitura Crítica das Informações", "institution": "Enap", "period": "2024-12"},
+        {"title": "Gerenciamento de Projetos na Prática", "institution": "Enap", "period": "2025-01"},
+        {"title": "Resolução de Problemas com Base em Dados", "institution": "Enap", "period": "2024"},
+        {"title": "Processamento de Linguagem Natural", "institution": "Enap", "period": "2025-05"},
+        {"title": "Planejamento Governamental", "institution": "Enap", "period": "2024-12"},
+        {"title": "Uso do Design em Políticas Públicas", "institution": "Enap", "period": "2025-04"},
+        {"title": "Análise e Melhoria de Processos", "institution": "Enap", "period": "2025-04"},
+        {"title": "Governo Aberto: Transparência e Dados Abertos", "institution": "Enap", "period": "2024-12"},
+        {"title": "Informação de Documentos e Mineração de Conhecimentos", "institution": "Enap", "period": "2025-05"},
+        {"title": "Gestão da Estratégia com BSC Fundamentos", "institution": "Enap", "period": "2024-12"},
+        {"title": "Fundamentos da Lei Geral de Proteção de Dados", "institution": "Enap", "period": "2024-11"}
+      ]
+    },
+    {
+      "category": "Outros Cursos",
+      "courses": [
+        {"title": "Storytelling com Dados para Comunicação Profissional de Sucesso", "institution": "Enap", "period": "2024-12"},
+        {"title": "Acesso à Informação", "institution": "Enap", "period": "2024-12"},
+        {"title": "Ágil no Contexto do Serviço Público", "institution": "Enap", "period": "2025-01"},
+        {"title": "Protocolos de Manejo Clínico do Coronavírus (COVID-19)", "institution": "Ministério da Saúde", "period": "2020-05"},
+        {"title": "Creating Compelling Reports", "institution": "Cisco", "period": "2024-06"}
+      ]
+    }
+  ],
+  "professionalExperience": [
+    {
+      "role": "QA Analyst",
+      "company": "GBX BRASIL",
+      "location": "PORTO ALEGRE",
+      "period": "2024-07 a 2024-10",
+      "responsibilities": [
+        "Atuação como QA Tester, responsável pela realização de testes manuais de software.",
+        "Desenvolvimento e execução de roteiros de testes detalhados, assegurando a qualidade e conformidade dos produtos.",
+        "Elaboração de relatórios de testes com apontamentos sobre possíveis melhorias e correções em aplicativos e sistemas.",
+        "Contribuição para o aprimoramento contínuo dos produtos, garantindo entregas com alto nível de qualidade.",
+        "Colaboração com equipes multidisciplinares para a identificação e resolução de problemas.",
+        "Foco constante na otimização de processos."
+      ]
+    },
+    {
+      "role": "Voluntário",
+      "company": "INSTITUTO SAUVER",
+      "location": "PORTO ALEGRE",
+      "period": "2017-03 a 2018-10",
+      "responsibilities": [
+        "Captura e identificação de quirópteros, mamíferos, aves e flora urbana.",
+        "Educação ambiental em eventos.",
+        "Organização de eventos (simpósios, cursos, expedições, Dia do Morcego).",
+        "Planejamento de jogos voltados para a educação em ciências e conservação.",
+        "Expedições de campo e auxílio/monitoria em cursos de identificação de morcegos.",
+        "Atuação como cameraman em pequenos vídeos (futuros documentários).",
+        "Estudos voltados para a Ecologia Urbana em parques e unidades de conservação."
+      ]
+    },
+    {
+      "role": "Estagiário",
+      "company": "Pet Fauna Clínica Veterinária",
+      "location": "PORTO ALEGRE",
+      "period": "2016-08 a 2016-12",
+      "responsibilities": [
+        "Manejo de animais silvestres, domésticos e de vida livre.",
+        "Montagem de habitats, alimentação e limpeza.",
+        "Auxílio no atendimento ao cliente, recebimento de animais e manutenção do ambiente comercial."
+      ]
+    },
+    {
+      "role": "Auxiliar de Pesquisa",
+      "company": "LABORATÓRIO DE ECOLOGIA QUANTITATIVA DA UFRGS",
+      "location": "PORTO ALEGRE",
+      "period": "2014-02 a 2015-02",
+      "responsibilities": [
+        "Leitura e revisão de literatura sobre coleópteros, pesquisas de campo e experimentos.",
+        "Coletas, triagens e identificação de espécimes.",
+        "Compilação, identificação e catalogação de material.",
+        "Auxílio na preparação e análise de materiais para artigos científicos."
+      ]
+    },
+    {
+      "role": "Estagiário",
+      "company": "CEPETEC-UFRGS",
+      "location": "PORTO ALEGRE",
+      "period": "2012-11 a 2012-12",
+      "responsibilities": [
+        "Estágio curto na área de pesquisa com carnes e alimentos."
+      ]
+    },
+    {
+      "role": "Estagiário",
+      "company": "LABORATÓRIO DE PARASITOLOGIA DA PUCRS",
+      "location": "PORTO ALEGRE",
+      "period": "2011-06 a 2012-06",
+      "responsibilities": [
+        "Manutenção de ciclo parasitário de Schistosoma mansoni, Angiostrongylus cantonensis e Angiostrongylus costaricensis.",
+        "Manutenção de hospedeiros definitivos (ratos, camundongos e roedores silvestres) e intermediários (lesmas e caramujos).",
+        "Análises clínicas em laboratório e leitura de lâminas com parasitos.",
+        "Auxílio no desenvolvimento de pesquisa na área de parasitologia."
+      ]
+    }
+  ]
+}
