@@ -1,6 +1,7 @@
 {
   "profile": {
-    "name": "Bruno Platcheck"
+    "name": "Bruno Platcheck",
+    "aboutMe": "Profissional multidisciplinar com formação em Ciências Biológicas e especialização em Game Design pela PUCRS, além de curso técnico concluído em Desenvolvimento de Sistemas pelo Senac-RS. Combina sólida base científica com habilidades técnicas em programação, modelagem 3D, testes de software e desenvolvimento de jogos e aplicações. Atua com ferramentas como Unity, Blender, 3D Max e Visual Studio, e domina linguagens como Python, Java, JavaScript, PHP e Dart. Possui experiência em QA (testes manuais e elaboração de roteiros), análise de dados, computação em nuvem (Azure), e organização de eventos científicos e educacionais com foco em divulgação científica e gamificação. Perfil analítico, criativo e colaborativo, com forte alinhamento à inovação tecnológica e à integração entre ciência e tecnologia. Objetivo pessoal: continuar crescendo tanto como profissional quanto como indivíduo, sempre aprendendo e estudando."
   },
   "socialLinks": [
     {
@@ -303,5 +304,39 @@
         "Auxílio no desenvolvimento de pesquisa na área de parasitologia."
       ]
     }
+  ],
+  "githubUser": "brunoplatcheck",
+  "featuredProjects": [
+    {"name": "Portifolio-React-Dio", "repoUrl": "https://api.github.com/repos/brunoplatcheck/Portifolio-React-Dio"},
+    {"name": "Amazon-Scrapper", "repoUrl": "https://api.github.com/repos/brunoplatcheck/Amazon-Scrapper"},
+    {"name": "Bat-Pass-Generator-Dio", "repoUrl": "https://api.github.com/repos/brunoplatcheck/Bat-Pass-Generator-Dio"},
+    {"name": "Api-Podcast-Manager-dio", "repoUrl": "https://api.github.com/repos/brunoplatcheck/Api-Podcast-Manager-dio"},
+    {"name": "Todo-List-Avan-ado", "repoUrl": "https://api.github.com/repos/brunoplatcheck/Todo-List-Avan-ado"},
+    {"name": "Kit-de-Utilit-rios-para-E-commerce", "repoUrl": "https://api.github.com/repos/brunoplatcheck/Kit-de-Utilit-rios-para-E-commerce"},
+    {"name": "Projeto-NLW-Agents-Iniciantes-", "repoUrl": "https://api.github.com/repos/brunoplatcheck/Projeto-NLW-Agents-Iniciantes-"},
+    {"name": "Projeto-NLW-Agents-Web", "repoUrl": "https://api.github.com/repos/brunoplatcheck/Projeto-NLW-Agents-Webr"},
+    {"name": "Mario-Kart-Simulator", "repoUrl": "https://api.github.com/repos/brunoplatcheck/Mario-Kart-Simulator"},
+    {"name": "Agente-AI", "repoUrl": "https://api.github.com/repos/brunoplatcheck/Agente-AI"},
+    {"name": "AgenteGames-de-IA---ImAlura", "repoUrl": "https://api.github.com/repos/brunoplatcheck/AgenteGames-de-IA---ImAlura"},
+    {"name": "Platcheck-Game-Guru", "repoUrl": "https://api.github.com/repos/brunoplatcheck/Platcheck-Game-Guru"},
+    {"name": "Desafio_Sistema_Banc-rio_com_Python", "repoUrl": "https://api.github.com/repos/brunoplatcheck/Desafio_Sistema_Banc-rio_com_Python"},
+    {"name": "Might-or-Fall---Marvel-Top-Trumps", "repoUrl": "https://api.github.com/repos/brunoplatcheck/Might-or-Fall---Marvel-Top-Trumps"},
+    {"name": "Bat-Pass-Generator-Dio", "repoUrl": "https://api.github.com/repos/brunoplatcheck/Bat-Pass-Generator-Dio"},
+    {"name": "Game_Catalog", "repoUrl": "https://api.github.com/repos/brunoplatcheck/Game_Catalog"},
+    {"name": "Projeto-Youtube-Clone", "repoUrl": "https://api.github.com/repos/brunoplatcheck/Projeto-Youtube-Clone"},
+    {"name": "Bitcon-converter", "repoUrl": "https://api.github.com/repos/brunoplatcheck/Bitcon-converter"},
+    {"name": "AppViagens", "repoUrl": "https://api.github.com/repos/brunoplatcheck/AppViagens"},
+    {"name": "dataset-gamesshop", "repoUrl": "https://api.github.com/repos/brunoplatcheck/dataset-gamesshop"},
+    {"name": "Jokenpo-Flutter", "repoUrl": "https://api.github.com/repos/brunoplatcheck/Jokenpo-Flutter"},
+    {"name": "Web-Full-Stack", "repoUrl": "https://api.github.com/repos/brunoplatcheck/Web-Full-Stack"},
+    {"name": "Gerenciador-de-Cat-logos-da-Netflix", "repoUrl": "https://api.github.com/repos/brunoplatcheck/Gerenciador-de-Cat-logos-da-Netflix"},
+    {"name": "3D_Models_3DMax", "repoUrl": "https://api.github.com/repos/brunoplatcheck/P3D_Models_3DMax"},
+    {"name": "Prog3D_Game_Project", "repoUrl": "https://api.github.com/repos/brunoplatcheck/Prog3D_Game_Project"},
+    {"name": "Project_Game_Ranker", "repoUrl": "https://api.github.com/repos/brunoplatcheck/Project_Game_Ranker"},
+    {"name": "Prototipo-Loja", "repoUrl": "https://api.github.com/repos/brunoplatcheck/Prototipo-Loja"},
+    {"name": "Projeto_Integrador1", "repoUrl": "https://api.github.com/repos/brunoplatcheck/Projeto_Integrador1"},
+    {"name": "Projeto-Liverpool", "repoUrl": "https://api.github.com/repos/brunoplatcheck/Projeto-Liverpool"},
+    {"name": "Poker_Simulator", "repoUrl": "https://api.github.com/repos/brunoplatcheck/Poker_Simulator"},
+    {"name": "Deniers_of_Fate", "repoUrl": "https://api.github.com/repos/brunoplatcheck/Deniers_of_Fate"}
   ]
 }

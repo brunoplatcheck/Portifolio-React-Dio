@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "meu-perfil",
-    "slug": "meu-perfil",
+    "name": "BrunoPlatcheckApp",
+    "slug": "BrunoPlatcheckApp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -20,10 +20,17 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "com.brunoplatch.BrunoPlatcheckApp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "81b75f50-3582-42a9-a2d0-97be401812b6"
+      }
+    },
+    "owner": "brunoplatch"
   }
 }

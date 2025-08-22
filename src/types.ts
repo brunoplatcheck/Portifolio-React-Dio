@@ -18,7 +18,7 @@ export interface Education {
   course: string;
   institution: string;
   period: string;
-  competencies: string[]; // Adicione as competências aqui
+  competencies: string[];
 }
 
 export interface ComplementaryCourse {
@@ -40,9 +40,24 @@ export interface ProfessionalExperience {
   responsibilities: string[];
 }
 
+export interface GitHubProject {
+  name: string;
+  html_url: string;
+  description: string;
+  language: string | null;
+  stargazers_count: number;
+  forks_count: number;
+}
+
+export interface FeaturedProject {
+  name: string;
+  repoUrl: string;
+}
+
 export interface ProfileData {
   profile: {
     name: string;
+    aboutMe: string;
   };
   socialLinks: SocialLink[];
   skills: {
@@ -57,4 +72,16 @@ export interface ProfileData {
   mainEducation: Education[];
   complementaryCourses: ComplementaryCourseCategory[];
   professionalExperience: ProfessionalExperience[];
+  githubUser: string;
+  featuredProjects: FeaturedProject[];
 }
+
+// Tipagem para as rotas do Stack Navigator (removendo DrawerStackParamList)
+export type RootStackParamList = {
+  Main: undefined;
+  Skills: undefined;
+  Education: undefined;
+  ComplementaryEducation: undefined;
+  ProfessionalExperience: undefined;
+  GitHubProjects: undefined; // <-- DEVE ESTAR AQUI
+};

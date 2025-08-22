@@ -4,7 +4,7 @@ import { View, Text, StyleSheet, ScrollView, TouchableOpacity } from 'react-nati
 import ProfileImage from '../components/ProfileImage';
 import data from '../data/data.json';
 import { ProfileData, ComplementaryCourse as ComplementaryCourseType } from '../types';
-import { MaterialCommunityIcons } from '@expo/vector-icons'; // Para o ícone de expansão
+// import { MaterialCommunityIcons } from '@expo/vector-icons'; // <-- NÃO PRECISA MAIS SE O ÍCONE FOR REMOVIDO
 
 interface ComplementaryCourseCardProps {
   course: ComplementaryCourseType;
@@ -26,26 +26,14 @@ const ComplementaryCourseCard: React.FC<ComplementaryCourseCardProps> = ({ cours
       ]}
     >
       <View style={styles.cardHeader}>
-        <View style={styles.courseInfoWrapper}> {/* Novo wrapper para o texto do curso */}
+        <View style={styles.courseInfoWrapper}>
           <Text style={styles.courseTitle}>{course.title}</Text>
           <Text style={styles.courseInstitution}>{course.institution}</Text>
           <Text style={styles.coursePeriod}>{course.period}</Text>
         </View>
-        <MaterialCommunityIcons
-          name={expanded ? 'chevron-up' : 'chevron-down'}
-          size={24}
-          color="#fff"
-        />
+        {/* MaterialCommunityIcons REMOVIDO AQUI */}
       </View>
-      {/* Aqui você pode adicionar mais detalhes se houver no JSON e quiser que apareçam ao expandir */}
-      {/* Exemplo: se tivesse um campo 'description' no ComplementaryCourse */}
-      {/*
-      {expanded && course.description && (
-        <View style={styles.courseDetailsContainer}>
-          <Text style={styles.courseDetailsText}>{course.description}</Text>
-        </View>
-      )}
-      */}
+      {/* Se houvesse mais detalhes para expandir aqui, eles iriam dentro de um <Text> ou View */}
     </TouchableOpacity>
   );
 };
@@ -148,9 +136,9 @@ const styles = StyleSheet.create({
     justifyContent: 'space-between',
     alignItems: 'center',
   },
-  courseInfoWrapper: { // Estilo para o novo wrapper
-    flex: 1, // Permite que ele ocupe o espaço disponível
-    marginRight: 10, // Espaço entre o texto e o ícone
+  courseInfoWrapper: {
+    flex: 1,
+    marginRight: 10,
   },
   courseTitle: {
     fontSize: 16,
